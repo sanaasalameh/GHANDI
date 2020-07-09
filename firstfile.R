@@ -1,2 +1,2 @@
-X=1
-print(X)
+y=1
+print(y)
